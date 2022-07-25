@@ -4,7 +4,7 @@ function Navbar() {
       <div className="navbar-brand">
         <a className="navbar-item" href="https://bulma.io">
           <div className="is-title is-size-4 has-text-weight-bold">
-            Cheap Products
+            Productario
           </div>
         </a>
 
